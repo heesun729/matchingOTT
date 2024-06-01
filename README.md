@@ -1,4 +1,4 @@
-# 소프트웨어 공학 7조
+# 서울시립대학교 소프트웨어 공학 7조
 ## UOMS(Uri OTT Matching Service)
 
 ### Node.js, React, DjangoRestFramework를 사용한 프로젝트입니다.
